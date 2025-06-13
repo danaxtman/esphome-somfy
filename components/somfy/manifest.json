@@ -1,0 +1,7 @@
+{
+  "name": "Somfy Switch",
+  "version": "1.0",
+  "domain": "somfy",
+  "dependencies": [],
+  "platforms": ["switch"]
+}
