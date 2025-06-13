@@ -1,1 +1,0 @@
-# intentionally empty for ESPHome external_component
